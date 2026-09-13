@@ -1,0 +1,48 @@
+body{background-color:black
+}
+@font-face {
+    font-family: 'tech';
+    src: url('shareTechMonoRegular.ttf');
+}
+h1{color:#009900;
+text-align:center;
+font-size:40;
+font-family: 'tech';
+font-weight: Bold;
+font-style: italic;
+}
+.pics {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{color:#00EE00;
+    font-size:50;
+    font-family: 'tech';
+    text-align:center;
+    padding:0px;
+    }
+h3{color:#00BB00;
+    margin-left:50px;
+    font-size:30;
+    font-family: 'tech';
+    }
+p{background-color:#003300;
+    width:85%;
+    padding:12px;
+    border-style: solid;
+    border-radius: 15px;
+    color:#00FF00;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+    font-size:30;
+    font-family: 'tech';
+}
+li{color:#00FF00;
+    margin-left:25px;
+    font-size:15;
+    font-family: 'tech';
+}
+a{color:#00FF00;}
