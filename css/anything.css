@@ -1,10 +1,10 @@
-body{background-color:black
+body{background-color:#E3E3E3
 }
 @font-face {
     font-family: 'tech';
     src: url('shareTechMonoRegular.ttf');
 }
-h1{color:#009900;
+h1{color:#990000;
 text-align:center;
 font-size:40;
 font-family: 'tech';
@@ -16,23 +16,23 @@ font-style: italic;
     margin-left: auto;
     margin-right: auto;
 }
-h2{color:#00EE00;
+h2{color:#990000;
     font-size:50;
     font-family: 'tech';
     text-align:center;
     padding:0px;
     }
-h3{color:#00BB00;
+h3{color:#990000;
     margin-left:50px;
     font-size:30;
     font-family: 'tech';
     }
-p{background-color:#003300;
+p{background-color:F57F7F;
     width:85%;
     padding:12px;
     border-style: solid;
     border-radius: 15px;
-    color:#00FF00;
+    color:#990000;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -40,7 +40,7 @@ p{background-color:#003300;
     font-size:30;
     font-family: 'tech';
 }
-li{color:#00FF00;
+li{color:#990000;
     margin-left:25px;
     font-size:15;
     font-family: 'tech';
